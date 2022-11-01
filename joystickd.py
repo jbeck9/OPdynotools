@@ -2,7 +2,7 @@
 import os
 import argparse
 import threading
-from inputs import get_gamepad
+#from inputs import get_gamepad
 
 import cereal.messaging as messaging
 from common.realtime import Ratekeeper
